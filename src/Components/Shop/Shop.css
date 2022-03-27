@@ -9,7 +9,7 @@
     margin:100px 50px;
 }
 .cart-container{
-    background-color: yellow;
+    background-color: rgb(94, 94, 83);
 }
 @media only screen and (max-width: 600px) {
     .products-container{

@@ -7,7 +7,7 @@ const Component = () => {
 
         <nav className="header">
 
-            <h1 >Botttole Collection</h1>
+            <h1 >Bottole Collection</h1>
             <div>
                 <a href="">Shop</a>
                 <a href="">Orders</a>

@@ -4,13 +4,10 @@ import './Cart.css'
 const Cart = ({cart}) => {
     return (
         <div className='cart'>
-            <h5>Order Summary</h5>
-            <p>selected items:{cart.length}</p>
+            <h2>Selected Items List</h2>
+            
             <div className='cart-item'>
-            {
-                // cart.map((item)=>( 
-                // <p  key={item.id}><img className='photo' src ={item.img}></img></p>))
-            }
+            
           
             {
                 
